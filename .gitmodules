@@ -1,0 +1,6 @@
+[submodule "lib/NDEF"]
+	path = lib/NDEF
+	url = https://github.com/TheNitek/NDEF.git
+[submodule "lib/Adafruit-PN532"]
+	path = lib/Adafruit-PN532
+	url = https://github.com/steefst33f/Adafruit-PN532.git
